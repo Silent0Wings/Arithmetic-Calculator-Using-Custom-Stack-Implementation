@@ -1,8 +1,5 @@
 # Arithmetic Calculator Using Custom Stack Implementation
-
-
-![Example](https://github.com/Silent0Wings/Arithmetic-Calculator-Using-Custom-Stack-Implementation/blob/7d14c3c5580c38e864ff4c39a2a6e82dfc3522c0/Example.png).
-
+![Example](https://github.com/Silent0Wings/Arithmetic-Calculator-Using-Custom-Stack-Implementation/blob/7d14c3c5580c38e864ff4c39a2a6e82dfc3522c0/Example.png)
 
 ## Project Overview
 
